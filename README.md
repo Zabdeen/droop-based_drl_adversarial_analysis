@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### 3) Run
 ```bash
-jupyter notebook notebooks/Adversarial_impact_on_Single_DQN_final_clean.ipynb
+jupyter notebook notebooks/***.ipynb
 ```
 
 
