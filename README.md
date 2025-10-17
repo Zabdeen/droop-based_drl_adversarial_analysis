@@ -48,12 +48,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/***.ipynb
 ```
 
-
-
-## License
-Choose a license (e.g., MIT, Apache‑2.0) and add a `LICENSE` file.  
-If unsure, MIT is a simple permissive choice.
-
 cff-version: 1.2.0
 message: "If you use this work, please cite it."
 preferred-citation:
@@ -72,6 +66,11 @@ preferred-citation:
   collection-title: "Resilience Week (RWS)"
   year: 2025
   notes: "Accepted"
+
+
+## License
+Choose a license (e.g., MIT, Apache‑2.0) and add a `LICENSE` file.  
+If unsure, MIT is a simple permissive choice.
 
 ---
 
