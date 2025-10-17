@@ -1,10 +1,18 @@
+[README.md](https://github.com/user-attachments/files/22962156/README.md)
 # Adversarial Impact on Droop‑Based DQN Controller
 
-This repository contains an **impact analysis of adversarial attacks** on a **droop-based DRL controller** implemented with a **Deep Q-Network (DQN)**.  
-All code is provided in a single Jupyter notebook for clarity and easy reproduction.
+## Publication (Resilience Week 2025)
 
-> Notebook: `notebooks/Adversarial_impact_on_Single_DQN_final_clean.ipynb` (outputs stripped for version control)  
-> Original (with outputs): `notebooks/Adversarial_impact_on_Single_DQN_final.ipynb`
+**Impact Analysis of Adversarial Attacks on Deep Reinforcement Learning-Based Wide-Area Microgrid Control**  
+**Authors:** Zain ul Abdeen, Suman Rath, Vivek Kumar Singh  
+**Affiliation:** National Renewable Energy Laboratory, Golden, Colorado  
+**Status:** Accepted at **Resilience Week 2025**  
+**Contact:** zainul.abdeen@nrel.gov, suman.rath@nrel.gov, vivekkumar.singh@nrel.gov
+
+> This repository accompanies the paper above. The curated notebook reflects the experimental workflow used to analyze the impact of adversarial attacks on a droop-based, DQN-controlled wide-area microgrid.
+
+This repository contains an **impact analysis of adversarial attacks** on a **droop-based  DRL controller** implemented with a **Deep Q-Network (DQN)**.  
+All code is provided in a single Jupyter notebook for clarity and easy reproduction.
 
 ## What’s inside
 - **Notebook** implementing experiments and analysis of adversarial attacks on a droop‑based DQN controller.
@@ -73,3 +81,7 @@ If unsure, MIT is a simple permissive choice.
 ---
 
 *Generated on 2025-10-17*
+
+
+## Curated Notebook (outputs preserved)
+- `notebooks/Adversarial_impact_on_Single_DQN_final_curated.ipynb` — redundant code removed (imports consolidated, earlier duplicate function defs removed, later seeds dropped), and descriptive markdown added. Results/outputs remain intact.
