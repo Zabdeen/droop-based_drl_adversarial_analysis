@@ -50,6 +50,13 @@ jupyter notebook notebooks/***.ipynb
 
 **Citation:** Z. U. Abdeen, S. Rath, and V. K. Singh, "Impact Analysis of Adversarial Attacks on Deep Reinforcement Learning-Based Wide-Area Microgrid Control," in *Proc. Resilience Week (RWS)*, 2025.
 
+@inproceedings{Abdeen2025RWS,
+  author    = {Abdeen, Zain ul and Rath, Suman and Singh, Vivek Kumar},
+  title     = {Impact Analysis of Adversarial Attacks on Deep Reinforcement Learning-Based Wide-Area Microgrid Control},
+  booktitle = {Proceedings of Resilience Week (RWS)},
+  year      = {2025},
+  note      = {Accepted}
+}
 
 
 ## License
