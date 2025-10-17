@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/22962156/README.md)
-# Adversarial Impact on Droop‑Based DQN Controller
+# Adversarial Impact on Droop‑Based DRL Controller
 
 ## Publication (Resilience Week 2025)
 
