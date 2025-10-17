@@ -7,11 +7,10 @@
 **Authors:** Zain ul Abdeen, Suman Rath, Vivek Kumar Singh  
 **Affiliation:** National Renewable Energy Laboratory, Golden, Colorado  
 **Status:** Accepted at **Resilience Week 2025**  
-**Contact:** zainul.abdeen@nrel.gov, suman.rath@nrel.gov, vivekkumar.singh@nrel.gov
 
 > This repository accompanies the paper above. The curated notebook reflects the experimental workflow used to analyze the impact of adversarial attacks on a droop-based, DQN-controlled wide-area microgrid.
 
-This repository contains an **impact analysis of adversarial attacks** on a **droop-based  DRL controller** implemented with a **Deep Q-Network (DQN)**.  
+This repository contains an **impact analysis of adversarial attacks** on a **droop-based  DRL controller** implemented with a **Deep Q-Network**.  
 All code is provided in a single Jupyter notebook for clarity and easy reproduction.
 
 ## What’s inside
