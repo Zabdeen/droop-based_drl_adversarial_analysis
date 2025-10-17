@@ -54,6 +54,25 @@ jupyter notebook notebooks/***.ipynb
 Choose a license (e.g., MIT, Apache‑2.0) and add a `LICENSE` file.  
 If unsure, MIT is a simple permissive choice.
 
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+preferred-citation:
+  type: conference-paper
+  title: "Impact Analysis of Adversarial Attacks on Deep Reinforcement Learning-Based Wide-Area Microgrid Control"
+  authors:
+    - family-names: Abdeen
+      given-names: Zain ul
+      affiliation: National Renewable Energy Laboratory
+    - family-names: Rath
+      given-names: Suman
+      affiliation: National Renewable Energy Laboratory
+    - family-names: Singh
+      given-names: Vivek Kumar
+      affiliation: National Renewable Energy Laboratory
+  collection-title: "Resilience Week (RWS)"
+  year: 2025
+  notes: "Accepted"
+
 ---
 
 *Generated on 2025-10-17*
