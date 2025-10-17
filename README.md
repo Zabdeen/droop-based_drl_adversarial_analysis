@@ -48,24 +48,8 @@ pip install -r requirements.txt
 jupyter notebook notebooks/***.ipynb
 ```
 
-cff-version: 1.2.0
-message: "If you use this work, please cite it."
-preferred-citation:
-  type: conference-paper
-  title: "Impact Analysis of Adversarial Attacks on Deep Reinforcement Learning-Based Wide-Area Microgrid Control"
-  authors:
-    - family-names: Abdeen
-      given-names: Zain ul
-      affiliation: National Renewable Energy Laboratory
-    - family-names: Rath
-      given-names: Suman
-      affiliation: National Renewable Energy Laboratory
-    - family-names: Singh
-      given-names: Vivek Kumar
-      affiliation: National Renewable Energy Laboratory
-  collection-title: "Resilience Week (RWS)"
-  year: 2025
-  notes: "Accepted"
+**Citation:** Z. U. Abdeen, S. Rath, and V. K. Singh, "Impact Analysis of Adversarial Attacks on Deep Reinforcement Learning-Based Wide-Area Microgrid Control," in *Proc. Resilience Week (RWS)*, 2025.
+
 
 
 ## License
