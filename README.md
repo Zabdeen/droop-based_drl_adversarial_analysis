@@ -1,6 +1,6 @@
 # Adversarial Impact on Droop‑Based DQN Controller
 
-This repository contains an **impact analysis of adversarial attacks** on a **droop-based controller** implemented with a **Deep Q-Network (DQN)**.  
+This repository contains an **impact analysis of adversarial attacks** on a **droop-based DRL controller** implemented with a **Deep Q-Network (DQN)**.  
 All code is provided in a single Jupyter notebook for clarity and easy reproduction.
 
 > Notebook: `notebooks/Adversarial_impact_on_Single_DQN_final_clean.ipynb` (outputs stripped for version control)  
